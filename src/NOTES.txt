@@ -1,0 +1,3 @@
+fix "always-miss" bug
+print grid/board
+make it air-tight
