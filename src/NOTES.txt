@@ -1,0 +1,6 @@
+fix "always-miss" bug 2 ️️✔️
+print grid/board 1
+Fix Patrol Boat (grid display) 1.1
+computer guesses twice 3
+
+make it air-tight 4
